@@ -1,5 +1,6 @@
 #!/usr/bin/env php
 <?php
+// SIP-IB | PIC: Anggota 4 | Lingkup: Wajib | Isi implementasi oleh PIC
 
 use Illuminate\Foundation\Application;
 use Symfony\Component\Console\Input\ArgvInput;

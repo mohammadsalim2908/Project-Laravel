@@ -1,3 +1,4 @@
+/* SIP-IB | PIC: Anggota 1 | Lingkup: Wajib | Isi implementasi oleh PIC */
 import Echo from 'laravel-echo';
 
 import Pusher from 'pusher-js';

@@ -1,3 +1,4 @@
+/* SIP-IB | PIC: Anggota 1 | Lingkup: Wajib | Isi implementasi oleh PIC */
 import { defineConfig } from 'vite';
 import laravel from 'laravel-vite-plugin';
 import { bunny } from 'laravel-vite-plugin/fonts';

@@ -1,4 +1,5 @@
 <?php
+// SIP-IB | PIC: Anggota 4 | Lingkup: Wajib | Isi implementasi oleh PIC
 
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
